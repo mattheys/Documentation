@@ -1,0 +1,28 @@
+ESP01
+Label       Signal
+VCC         3.3V (max 3.6V)
+GND         Ground
+TXD         Transmit Data
+RXD         Receive Data
+CH_PD       Chip Power down:
+GPIO0       General Purpose I/O 0
+GPIO2       General Purpose I/O 2
+RST         Reset (LOW = Reset)
+
+
+ESP03
+Label       Signal
+VCC         3.3V (max 3.6V)
+GND         Ground
+UTXD        Transmit Data
+URXD        Receive Data
+CH_PD       Chip Power down:
+GPIO0       General Purpose I/O 0
+GPIO2       General Purpose I/O 2
+GPIO12      General Purpose I/O 12
+GPIO13      General Purpose I/O 13
+GPIO14      General Purpose I/O 14
+GPIO15      General Purpose I/O 15
+GPIO16      General Purpose I/O 16 (RESET)
+WIFI_ANT    WiFi Antenna
+NC          Not connected
